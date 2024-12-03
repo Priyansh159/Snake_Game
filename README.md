@@ -26,12 +26,12 @@ You can control the snake using:
 
  How to Run
 
-	1.	Clone the repository:
-	git clone https://github.com/your-username/snake-game.git
-	cd snake-game
+	1.Clone the repository:
+		git clone https://github.com/your-username/snake-game.git
+		cd snake-game
 
-    2.	Run the game:
-    python main.py
+    2.Run the game:
+    	python main.py
 
 Dependencies
 
