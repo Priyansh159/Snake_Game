@@ -16,6 +16,7 @@ Features
 Controls
 
 You can control the snake using:
+
 	•	Arrow keys (Up, Down, Left, Right)
 	•	W, A, S, D keys for movement:
 	•	W / Up: Move up
@@ -25,12 +26,12 @@ You can control the snake using:
 
  How to Run
 
-	  1.	Clone the repository:
-        git clone https://github.com/your-username/snake-game.git
-        cd snake-game
+	1.	Clone the repository:
+	git clone https://github.com/your-username/snake-game.git
+	cd snake-game
 
     2.	Run the game:
-        python main.py
+    python main.py
 
 Dependencies
 
